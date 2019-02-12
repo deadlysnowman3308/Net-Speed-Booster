@@ -1,7 +1,7 @@
 # net-speed-booster
 
 * Download the net-speed-booster.exe
-<br>
+<br/>
 * And just run the batch file
 <br>
 * wait some minutes.
