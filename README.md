@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-* Download the net-speed-booster.exe<br/>
+* Download the net-speed-booster.zip<br/>
 <br/>
 * And just run the net-speed-booster.exe<br/>
 </br>
